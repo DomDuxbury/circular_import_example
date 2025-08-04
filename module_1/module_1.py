@@ -1,4 +1,5 @@
-from main import hello
+def hello():
+    print("hello")
 
 def from_module():
     print("from module")
