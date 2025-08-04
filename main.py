@@ -2,7 +2,7 @@ from module_1.module_1 import hello_from_module
 
 def main():
     hello()
-    print("rom main")
+    print("from main")
     hello_from_module()
 
 def hello():
