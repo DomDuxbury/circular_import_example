@@ -1,4 +1,5 @@
-This repo contains a python program which can't run due to a circular import. The branches contain the fixes for this issue. Pick your solution wisely!
+This repo contains a python program which can't run due to a circular import. The branches contain the fixes for this issue. 
+Pick your solution wisely!
 
 ### Program
 
