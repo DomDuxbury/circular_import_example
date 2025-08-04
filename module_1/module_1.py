@@ -1,4 +1,4 @@
-from main import hello
+from module_2 import hello
 
 def from_module():
     print("from module")
